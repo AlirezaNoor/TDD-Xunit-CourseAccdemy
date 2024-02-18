@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjoXjVAOqLHeB2qAaQuqgdpSkY4Z18UmB/m8D/AIHMfXoWyIe4eCvuYcR28ojbT2WembS+JUDRw89z2wxmXamA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\Infrastructrue.Course\\Infrastructrue.Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
