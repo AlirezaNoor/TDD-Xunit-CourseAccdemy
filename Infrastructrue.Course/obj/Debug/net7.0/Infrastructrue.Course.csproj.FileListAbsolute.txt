@@ -1,0 +1,16 @@
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\bin\Debug\net7.0\Infrastructrue.Course.deps.json
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\bin\Debug\net7.0\Infrastructrue.Course.dll
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\bin\Debug\net7.0\Infrastructrue.Course.pdb
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\bin\Debug\net7.0\Domain.Course.dll
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\bin\Debug\net7.0\Domain.Course.pdb
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.csproj.AssemblyReference.cache
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.AssemblyInfoInputs.cache
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.AssemblyInfo.cs
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.csproj.CoreCompileInputs.cache
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.sourcelink.json
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.csproj.CopyComplete
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.dll
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\refint\Infrastructrue.Course.dll
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.pdb
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\ref\Infrastructrue.Course.dll

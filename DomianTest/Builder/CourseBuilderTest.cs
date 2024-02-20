@@ -14,6 +14,11 @@ public class CourseBuilderTest
          this.name = name;
          return this ;
      }
+     public CourseBuilderTest checked_Id_is_same(int Id)
+     {
+         this.id = Id;
+         return this ;
+     }
 
      public CourseBuilderTest checked_name_is_Not_Equal_or_Lass(double tution)
      {

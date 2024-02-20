@@ -2,8 +2,6 @@
 
 public class Course
 {
-
-
     public Course(int id, string abdollah, bool isonilne, double tution)
     {
         NameChecker(abdollah);
@@ -29,6 +27,7 @@ public class Course
     public bool IsOnilne { get; set; }
     public double Tution { get; set; }
     public List<section> selctions { get; set; }
+
     private static void NameChecker(string abdollah)
     {
         if (string.IsNullOrEmpty(abdollah))
@@ -41,5 +40,21 @@ public class Course
     {
         selctions.Add(sction);
     }
-}
 
+    public override bool Equals(object? obj)
+    { 
+        if (!checknullvalue(obj)) return false;
+        var coroues = obj as Course;
+        return Id == coroues.Id;
+    }
+
+    private static bool checknullvalue(object? obj)
+    {
+        if (obj==null)
+        {
+            return false;
+        }
+
+        return true;
+    }
+}

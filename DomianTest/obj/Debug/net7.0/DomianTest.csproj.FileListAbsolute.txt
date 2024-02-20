@@ -104,3 +104,4 @@ C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\refint\Dom
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.pdb
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.genruntimeconfig.cache
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\ref\DomianTest.dll
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.sourcelink.json

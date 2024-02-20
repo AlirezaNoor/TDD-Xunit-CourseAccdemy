@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Domain.Course/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Domain.Course.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.Course.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain.Course/1.0.0": {
+      "type": "project",
+      "path": "../Domain.Course/Domain.Course.csproj",
+      "msbuildProject": "../Domain.Course/Domain.Course.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Domain.Course >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\shahab-i317\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shahab-i317\\RiderProjects\\Course\\Domain.Course\\Domain.Course.csproj": {
+              "projectPath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\Domain.Course\\Domain.Course.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -9,3 +9,4 @@ C:\Users\shahab-i317\RiderProjects\Course\Domain.Course\obj\Debug\net7.0\Domain.
 C:\Users\shahab-i317\RiderProjects\Course\Domain.Course\obj\Debug\net7.0\refint\Domain.Course.dll
 C:\Users\shahab-i317\RiderProjects\Course\Domain.Course\obj\Debug\net7.0\Domain.Course.pdb
 C:\Users\shahab-i317\RiderProjects\Course\Domain.Course\obj\Debug\net7.0\ref\Domain.Course.dll
+C:\Users\shahab-i317\RiderProjects\Course\Domain.Course\obj\Debug\net7.0\Domain.Course.sourcelink.json

@@ -51,4 +51,27 @@ public class Coursetest
 
         course.selctions.Should().ContainEquivalentOf(sction);
     }
+
+    [Fact]
+    public void Checked_Equal_in_Class_must_True()
+    {
+        CourseBuilderTest courseBuilderTest = new CourseBuilderTest();
+        var coures = courseBuilderTest.checked_Id_is_same(1).build();
+        var coures2 = courseBuilderTest.checked_Id_is_same(1).build();
+        var acutial = coures.Equals(coures2);
+        acutial.Should().BeTrue();
+
+    }
+
+    [Fact]
+    public void Checked_Equal_in_Class_must_False()
+    {
+        var courseBuilderTest = new CourseBuilderTest();
+        var course1 = courseBuilderTest.checked_Id_is_same(1).build();
+        var course2 = courseBuilderTest.checked_Id_is_same(2).build();
+        var actual = course1.Equals(course2);
+        actual.Should().BeFalse();
+    }
+   
+        
 }
