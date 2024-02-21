@@ -1,7 +1,7 @@
 ﻿using Domain.Course;
 using Infrastructrue.Course;
 
-namespace SevicesTest;
+namespace ServicesCourse;
 
 public class CourseService
 {
@@ -15,7 +15,13 @@ public class CourseService
 
     public int Create(CourseDto command)
     {
-      _couresRepository.Create(new Course(command.Id,command.Name,command.IsOnilne,command.Tution));
-      return command.Id;
+        var result = new Course(command.Id, command.Name, command.IsOnilne, command.Tution);
+        // if (_couresRepository.getbyname(result) == null)
+        // {
+        //     throw new Exception();
+        // }
+
+        _couresRepository.Create(result);
+        return command.Id;
     }
 }

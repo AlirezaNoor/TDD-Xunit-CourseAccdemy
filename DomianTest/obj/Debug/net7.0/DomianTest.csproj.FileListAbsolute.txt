@@ -1,9 +1,4 @@
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\CoverletSourceRootsMapping_DomianTest
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.AssemblyReference.cache
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.AssemblyInfoInputs.cache
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.AssemblyInfo.cs
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.CoreCompileInputs.cache
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\testhost.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\testhost.exe
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -98,10 +93,15 @@ C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\zh-Hant\Mi
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\Domain.Course.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\bin\Debug\net7.0\Domain.Course.pdb
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.AssemblyReference.cache
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.AssemblyInfoInputs.cache
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.AssemblyInfo.cs
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.CoreCompileInputs.cache
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.sourcelink.json
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.CopyComplete
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\refint\DomianTest.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.pdb
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.genruntimeconfig.cache
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\ref\DomianTest.dll
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.sourcelink.json

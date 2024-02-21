@@ -23,7 +23,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\DomianTest\DomianTest.csproj" />
       <ProjectReference Include="..\Infrastructrue.Course\Infrastructrue.Course.csproj" />
+      <ProjectReference Include="..\ServicesCourse\ServicesCourse.csproj" />
     </ItemGroup>
 
 </Project>

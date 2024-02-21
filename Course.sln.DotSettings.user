@@ -1,35 +1,12 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c37ff39_002D0ca2_002D4da9_002Da255_002D595713791cdd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Create" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=494AC322_002D48D2_002D446F_002DBC3E_002DDA46C6B4CA47_002Ff_003ACourseService_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=918c714c_002D415e_002D4dce_002D8b85_002D2e0dcc443832/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Check_Create_call_in_CourseRepository" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.Create&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Checked_Equal_in_Class_must_True&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Checked_Equal_in_Class_must_False&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.GetAll_Course_when_we_call_All&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.Get_By_Id_Shoud_pass_Course&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.Get_By_Id_when_shoud_pass_null&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.Delete_By_Id_when_should_pass_Id&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::21C7388F-E675-43A6-85CC-EED944429533::net7.0::SevicesTest.CousreServiceTest.Check_Create_call_in_CourseRepository&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::21C7388F-E675-43A6-85CC-EED944429533::net7.0::SevicesTest.CousreServiceTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c3e05a5_002D5d86_002D4102_002D88dc_002Db7cd5cc82a59/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Check_Constructor_IsSucces #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Check_Constructor_IsSucces&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.Create&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::21C7388F-E675-43A6-85CC-EED944429533::net7.0::SevicesTest.CousreServiceTest.Check_Craete_Method_return_Currect_Id&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ed73ebf_002D6451_002D412d_002D8357_002Daeb993a73a36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Check_Constructor_IsSucces #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Check_Constructor_IsSucces&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Check_name_if_when_pass_null_value_then_throw_excption&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Chacked_tution_If_Equal_or_Less_then_0&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.AddAction_When_pass_ID_Name_to&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E5484723-A884-45DE-A245-E79105BC961C::net7.0::InfrastructureTest.Repositories.RepositoryTest.Create&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Checked_Equal_in_Class&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=acf99a90_002Df8d9_002D49df_002D9b11_002Db2c11da3f539/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Check_Constructor_IsSucces" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::984798BF-5BE9-485A-8AC6-03112C052110::net7.0::DomianTest.Coursetest.Check_Constructor_IsSucces&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

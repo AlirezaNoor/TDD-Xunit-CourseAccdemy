@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmZGGvpNk6z4ez0fZ0CLoZ1oIJobPpY7P8wb1UQTdNRn/Mj2xJsnjLvgte+TbDOkaP04trX/xzdopMKiTvNRiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\ServicesCourse\\ServicesCourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

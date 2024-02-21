@@ -12,4 +12,6 @@ public interface ICouresRepository
 
 
     void Delete(int i);
+    Domain.Course.Course getbyname(Domain.Course.Course course);
+    
 }

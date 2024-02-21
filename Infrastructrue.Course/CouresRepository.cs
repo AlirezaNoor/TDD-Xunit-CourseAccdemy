@@ -1,6 +1,6 @@
 ﻿namespace Infrastructrue.Course;
 
-public class CouresRepository
+public class CouresRepository:ICouresRepository
 {
     public List<Domain.Course.Course> Courses = new List<Domain.Course.Course>()
     {
@@ -26,5 +26,10 @@ public class CouresRepository
     {
         var cours = GetBy(i);
         Courses.Remove(cours);
+    }
+
+    public Domain.Course.Course getbyname(Domain.Course.Course course)
+    {
+        return Courses.FirstOrDefault(x => x.Name == course.Name);
     }
 }

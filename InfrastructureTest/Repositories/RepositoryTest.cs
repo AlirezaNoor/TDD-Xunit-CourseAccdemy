@@ -66,5 +66,17 @@ public class RepositoryTest
 
          couresRepository.Courses.Should().NotContain(corse);
     }
+
+    [Fact]
+    public void Check_Name_Is_Exist()
+    {
+        var Name = "test";
+        var courseBuilderTest = new CourseBuilderTest();
+        var couresRepository = new CouresRepository();
+        var course=courseBuilderTest.checked_name_is_null(Name).build();
+        couresRepository.Create(course);
+        var actual = couresRepository.getbyname(course);
+        actual.Should().Be(course);
+    }
 }
  

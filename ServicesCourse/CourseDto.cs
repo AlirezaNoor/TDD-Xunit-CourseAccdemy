@@ -1,5 +1,4 @@
-﻿namespace SevicesTest;
-
+﻿namespace ServicesCourse;
 public class CourseDto
 {
     public int Id { get; set; }
