@@ -1,6 +1,6 @@
 ﻿namespace Infrastructrue.Course;
 
-public class CouresRepository:ICouresRepository
+public class CouresRepository : ICouresRepository
 {
     private readonly Acddemy _acddemy;
 
@@ -11,12 +11,13 @@ public class CouresRepository:ICouresRepository
 
     public void Create(Domain.Course.Course course)
     {
-   
+        _acddemy.Courses.Add(course);
+        _acddemy.SaveChanges();
     }
 
     public List<Domain.Course.Course> GetAll()
     {
-        return null;
+        return _acddemy.Courses.ToList();
     }
 
     public Domain.Course.Course GetBy(int i)
@@ -26,7 +27,6 @@ public class CouresRepository:ICouresRepository
 
     public void Delete(int i)
     {
-    
     }
 
     public Domain.Course.Course getbyname(Domain.Course.Course course)

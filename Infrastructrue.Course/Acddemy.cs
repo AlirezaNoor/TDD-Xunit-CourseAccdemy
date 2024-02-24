@@ -7,4 +7,6 @@ public class Acddemy:DbContext
     public Acddemy(DbContextOptions<Acddemy> options) : base(options)
     {
     }
+
+    public DbSet<Domain.Course.Course> Courses { get; set; }
 }
