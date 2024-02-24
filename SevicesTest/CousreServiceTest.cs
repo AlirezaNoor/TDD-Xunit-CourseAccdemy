@@ -4,6 +4,7 @@ using FluentAssertions;
 using Infrastructrue.Course;
 using NSubstitute;
 using ServicesCourse;
+using Tynamix.ObjectFiller;
 using Xunit;
 
 namespace SevicesTest;
@@ -59,12 +60,17 @@ public class CousreServiceTest
     // }
     private static CourseDto moqdata()
     {
-        return new CourseDto()
-        {
-            Id = 13,
-            Name = "alireza",
-            Tution = 100,
-            IsOnilne = true,
-        };
+        // return new CourseDto()
+        // {
+        //     Id = 13,
+        //     Name = Faker.Name.FullName(),
+        //     Tution = 100,
+        //     IsOnilne = true,
+        // };
+
+        var filler = new Filler<CourseDto>();
+        filler.Setup().OnProperty(x => x.Tution).Use(780);
+
+        return filler.Create();
     }
 }
