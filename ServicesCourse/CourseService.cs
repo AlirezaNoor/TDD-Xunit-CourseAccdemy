@@ -36,4 +36,14 @@ public class CourseService
         var result = new Course(command.Id, command.Name, command.IsOnilne, command.Tution);
         _couresRepository.Create(result);
     }
+
+    public void Delete(int id)
+    {
+        _couresRepository.Delete(id);
+    }
+
+    public List<Course> GetAll()
+    {
+        return _couresRepository.GetAll();
+    }
 }

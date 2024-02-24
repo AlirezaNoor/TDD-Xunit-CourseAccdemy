@@ -3,6 +3,7 @@ using DomianTest.Builder;
 using FluentAssertions;
 using Infrastructrue.Course;
 using NSubstitute;
+using NSubstitute.ReceivedExtensions;
 using NSubstitute.ReturnsExtensions;
 using ServicesCourse;
 using Tynamix.ObjectFiller;
@@ -91,7 +92,7 @@ public class CousreServiceTest
         _couresRepository.GetBy(command.Id).Returns(course);
         _courseService.Edited(command);
 
-        
+
         _couresRepository.Received().Delete(command.Id);
         _couresRepository.Received().Create(Arg.Any<Course>());
     }
@@ -109,5 +110,20 @@ public class CousreServiceTest
         _couresRepository.GetBy(command.Id).ReturnsNull();
         Action action = () => _courseService.Edited(command);
         action.Should().Throw<Exception>();
+    }
+
+    [Fact]
+    public void Check_delete_method_work_well()
+    {
+        int id = 12;
+        _courseService.Delete(id);
+        _couresRepository.Received().Delete(id);
+    }
+
+    [Fact]
+    public void check_GetAll_work_well()
+    {
+          List<Course> all =_courseService.GetAll();
+          _couresRepository.Received().GetAll();
     }
 }
