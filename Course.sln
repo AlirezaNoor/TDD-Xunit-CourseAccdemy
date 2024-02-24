@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevicesTest", "SevicesTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesCourse", "ServicesCourse\ServicesCourse.csproj", "{494AC322-48D2-446F-BC3E-DA46C6B4CA47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraStructure.Course.IntegrationTest", "InfraStructure.Course.IntegrationTest\InfraStructure.Course.IntegrationTest.csproj", "{DD49D00D-5E92-4BF4-80E3-2B05233340C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{494AC322-48D2-446F-BC3E-DA46C6B4CA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{494AC322-48D2-446F-BC3E-DA46C6B4CA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{494AC322-48D2-446F-BC3E-DA46C6B4CA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

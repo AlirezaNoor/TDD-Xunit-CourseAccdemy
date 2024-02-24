@@ -3,6 +3,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=918c714c_002D415e_002D4dce_002D8b85_002D2e0dcc443832/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Check_Create_call_in_CourseRepository" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::21C7388F-E675-43A6-85CC-EED944429533::net7.0::SevicesTest.CousreServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest.check_database_integration_in_data_base&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	

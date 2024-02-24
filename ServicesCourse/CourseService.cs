@@ -3,7 +3,7 @@ using Infrastructrue.Course;
 
 namespace ServicesCourse;
 
-public class CourseService
+public class CourseService:ICourseService
 {
     private readonly ICouresRepository _couresRepository;
 
@@ -16,10 +16,7 @@ public class CourseService
     public int Create(CourseDto command)
     {
         var result = new Course(command.Id, command.Name, command.IsOnilne, command.Tution);
-        // if (_couresRepository.getbyname(result) == null)
-        // {
-        //     throw new Exception();
-        // }
+ 
 
         _couresRepository.Create(result);
         return command.Id;

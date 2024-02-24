@@ -2,34 +2,35 @@
 
 public class CouresRepository:ICouresRepository
 {
-    public List<Domain.Course.Course> Courses = new List<Domain.Course.Course>()
+    private readonly Acddemy _acddemy;
+
+    public CouresRepository(Acddemy acddemy)
     {
-        new Domain.Course.Course(30,"alireza",true,870)
-    };
+        _acddemy = acddemy;
+    }
 
     public void Create(Domain.Course.Course course)
     {
-        Courses.Add(course);
+   
     }
 
     public List<Domain.Course.Course> GetAll()
     {
-        return Courses;
+        return null;
     }
 
     public Domain.Course.Course GetBy(int i)
     {
-        return Courses.FirstOrDefault(x => x.Id == i);
+        return null;
     }
 
     public void Delete(int i)
     {
-        var cours = GetBy(i);
-        Courses.Remove(cours);
+    
     }
 
     public Domain.Course.Course getbyname(Domain.Course.Course course)
     {
-        return Courses.FirstOrDefault(x => x.Name == course.Name);
+        return null;
     }
 }
