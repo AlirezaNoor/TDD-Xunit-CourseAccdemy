@@ -118,3 +118,6 @@ C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\obj\Debug\net7.0\refint\Se
 C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\obj\Debug\net7.0\SevicesTest.pdb
 C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\obj\Debug\net7.0\SevicesTest.genruntimeconfig.cache
 C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\obj\Debug\net7.0\ref\SevicesTest.dll
+C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\bin\Debug\net7.0\Faker.Net.6.0.dll
+C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\bin\Debug\net7.0\Tynamix.ObjectFiller.dll
+C:\Users\shahab-i317\RiderProjects\Course\SevicesTest\bin\Debug\net7.0\de-DE\Faker.Net.6.0.resources.dll

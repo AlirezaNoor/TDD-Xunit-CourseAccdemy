@@ -3,6 +3,7 @@ using DomianTest.Builder;
 using FluentAssertions;
 using Infrastructrue.Course;
 using NSubstitute;
+using NSubstitute.ReturnsExtensions;
 using ServicesCourse;
 using Tynamix.ObjectFiller;
 using Xunit;
@@ -13,11 +14,13 @@ public class CousreServiceTest
 {
     private readonly ICouresRepository _couresRepository;
     private readonly CourseService _courseService;
+    private CourseBuilderTest _courseBuilderTest;
 
     public CousreServiceTest()
     {
         _couresRepository = Substitute.For<ICouresRepository>();
         _courseService = new CourseService(_couresRepository);
+        _courseBuilderTest = new CourseBuilderTest();
     }
 
     [Fact]
@@ -72,5 +75,39 @@ public class CousreServiceTest
         filler.Setup().OnProperty(x => x.Tution).Use(780);
 
         return filler.Create();
+    }
+
+    [Fact]
+    public void Check_edited_inCouries_Services()
+    {
+        var command = new EditCourse()
+        {
+            Id = 12,
+            IsOnilne = true,
+            Name = "Alireza",
+            Tution = 890,
+        };
+        var course = _courseBuilderTest.build();
+        _couresRepository.GetBy(command.Id).Returns(course);
+        _courseService.Edited(command);
+
+        
+        _couresRepository.Received().Delete(command.Id);
+        _couresRepository.Received().Create(Arg.Any<Course>());
+    }
+
+    [Fact]
+    public void Check_edited_inCouries_Services_pass_exption()
+    {
+        var command = new EditCourse()
+        {
+            Id = 12,
+            IsOnilne = true,
+            Name = "Alireza",
+            Tution = 890,
+        };
+        _couresRepository.GetBy(command.Id).ReturnsNull();
+        Action action = () => _courseService.Edited(command);
+        action.Should().Throw<Exception>();
     }
 }
