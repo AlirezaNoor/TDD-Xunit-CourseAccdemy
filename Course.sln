@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesCourse", "ServicesC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraStructure.Course.IntegrationTest", "InfraStructure.Course.IntegrationTest\InfraStructure.Course.IntegrationTest.csproj", "{DD49D00D-5E92-4BF4-80E3-2B05233340C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentianTest", "PresentianTest\PresentianTest.csproj", "{13AC9975-CD15-4E56-B1D6-89F2F279FA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursePresentian", "CoursePresentian\CoursePresentian.csproj", "{B117B4FC-E39F-46FE-9DD7-A729C703A862}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD49D00D-5E92-4BF4-80E3-2B05233340C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AC9975-CD15-4E56-B1D6-89F2F279FA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AC9975-CD15-4E56-B1D6-89F2F279FA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AC9975-CD15-4E56-B1D6-89F2F279FA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AC9975-CD15-4E56-B1D6-89F2F279FA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B117B4FC-E39F-46FE-9DD7-A729C703A862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B117B4FC-E39F-46FE-9DD7-A729C703A862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B117B4FC-E39F-46FE-9DD7-A729C703A862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B117B4FC-E39F-46FE-9DD7-A729C703A862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

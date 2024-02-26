@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfraStructure.Course.IntegrationTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55e3acf88645cd2d1c88612ffcc313fcb5cff255")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+417b050d07d55e9eb0840be201727b0640af1833")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfraStructure.Course.IntegrationTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfraStructure.Course.IntegrationTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

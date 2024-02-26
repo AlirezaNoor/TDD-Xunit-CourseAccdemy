@@ -7,6 +7,7 @@
     &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest.Check_Get_by_name&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest.Check_Create_right&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13AC9975-CD15-4E56-B1D6-89F2F279FA98::net7.0::PresentianTest.presentaionTest.Check_controller_Pass_all&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	

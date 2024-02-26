@@ -64,4 +64,14 @@ public class DatabaseTest:IClassFixture<IDatabaseFixture>
         id.Should().BeGreaterThan(0);
 
     }
+
+    [Fact]
+    public void Check_delete_id()
+    {
+        var course = new Domain.Course.Course(0, "alireza", true, 800);
+        var id = _couresRepository.Create(course);
+        _couresRepository.Delete(id);
+        var all=_couresRepository.GetAll();
+        all.Should().NotContain(course);
+    }
 }
