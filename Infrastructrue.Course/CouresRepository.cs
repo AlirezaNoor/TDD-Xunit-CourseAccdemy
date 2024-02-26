@@ -9,15 +9,16 @@ public class CouresRepository : ICouresRepository
         _acddemy = acddemy;
     }
 
-    public void Create(Domain.Course.Course course)
+    public int Create(Domain.Course.Course course)
     {
-        _acddemy.Courses.Add(course);
+        _acddemy.courses.Add(course);
         _acddemy.SaveChanges();
+        return course.Id;
     }
 
     public List<Domain.Course.Course> GetAll()
     {
-        return _acddemy.Courses.ToList();
+        return _acddemy.courses.ToList();
     }
 
     public Domain.Course.Course GetBy(int i)

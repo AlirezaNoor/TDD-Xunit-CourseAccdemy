@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SmHV5KkY73x2suuyajKF7kKZLagvlW7X6zE7KeXz0pdmQAhFBnh2uVDWtoVwHqzrwTRh6o9T698PRrapqNEzwA==",
+  "dgSpecHash": "FEuBQJxT/P71k0OmSPka8DLw7tAJrCCPkz97N+pxkIWjPnW3lteCQ3PVOx+tgKW6y5NNVGNv/CJdqh7I5Iy2AA==",
   "success": true,
   "projectFilePath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\ServicesCourse\\ServicesCourse.csproj",
   "expectedPackageFiles": [
@@ -63,9 +63,9 @@
     "C:\\Users\\shahab-i317\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\shahab-i317\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\shahab-i317\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\shahab-i317\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

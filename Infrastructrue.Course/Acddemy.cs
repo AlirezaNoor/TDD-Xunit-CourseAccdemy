@@ -8,5 +8,5 @@ public class Acddemy:DbContext
     {
     }
 
-    public DbSet<Domain.Course.Course> Courses { get; set; }
+    public DbSet<Domain.Course.Course> courses { get; set; }
 }

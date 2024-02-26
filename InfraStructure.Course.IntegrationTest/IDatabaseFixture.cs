@@ -11,14 +11,18 @@ public class IDatabaseFixture:IDisposable, IAsyncDisposable
     public IDatabaseFixture()
     {
         var option = new DbContextOptionsBuilder<Acddemy>().UseSqlServer(
-            "Server=.;Database=BlinkShop.CartShop;User Id=sa;Password=55375447;TrustServerCertificate=True"
+            "Server=.;Database=Course ;User Id=sa;Password=55375447;TrustServerCertificate=True"
         ).Options;
           context = new Acddemy(option);
           _transactionScope = new TransactionScope();
           var test = new Domain.Course.Course(0, "testq", true, 780);
           var test2 = new Domain.Course.Course(0, "testq", true, 790);
           var test3 = new Domain.Course.Course(0, "testq", true, 900);
-    }
+          context.courses.Add(test);
+          context.courses.Add(test2);
+          context.courses.Add(test3);
+          context.SaveChanges();
+    } 
 
     public void Dispose()
     {

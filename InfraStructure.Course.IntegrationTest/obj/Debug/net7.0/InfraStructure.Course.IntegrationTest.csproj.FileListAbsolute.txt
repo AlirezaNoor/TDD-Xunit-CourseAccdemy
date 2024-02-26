@@ -155,9 +155,9 @@ C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.AssemblyInfo.cs
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.csproj.CoreCompileInputs.cache
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.sourcelink.json
-C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.csproj.CopyComplete
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.dll
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\refint\InfraStructure.Course.IntegrationTest.dll
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.pdb
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStructure.Course.IntegrationTest.genruntimeconfig.cache
 C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\ref\InfraStructure.Course.IntegrationTest.dll
+C:\Users\shahab-i317\RiderProjects\Course\InfraStructure.Course.IntegrationTest\obj\Debug\net7.0\InfraStr.A1744E96.Up2Date

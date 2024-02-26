@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\shahab-i317\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\Domain.Course\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\shahab-i317\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -55,15 +58,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -84,6 +87,9 @@
         "packagesPath": "C:\\Users\\shahab-i317\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\Infrastructrue.Course\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\shahab-i317\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -144,15 +150,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -160,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -173,6 +179,9 @@
         "packagesPath": "C:\\Users\\shahab-i317\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\shahab-i317\\RiderProjects\\Course\\ServicesCourse\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\shahab-i317\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -219,15 +228,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -235,7 +244,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

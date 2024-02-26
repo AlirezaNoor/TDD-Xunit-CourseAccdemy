@@ -99,9 +99,9 @@ C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.AssemblyInfo.cs
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.CoreCompileInputs.cache
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.sourcelink.json
-C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.CopyComplete
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\refint\DomianTest.dll
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.pdb
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.genruntimeconfig.cache
 C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\ref\DomianTest.dll
+C:\Users\shahab-i317\RiderProjects\Course\DomianTest\obj\Debug\net7.0\DomianTest.csproj.Up2Date

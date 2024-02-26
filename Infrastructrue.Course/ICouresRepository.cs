@@ -2,7 +2,7 @@
 
 public interface ICouresRepository
 {
-    void Create(Domain.Course.Course course);
+    int Create(Domain.Course.Course course);
 
 
     List<Domain.Course.Course> GetAll();

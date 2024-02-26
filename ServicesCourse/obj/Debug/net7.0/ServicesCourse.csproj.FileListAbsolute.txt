@@ -11,8 +11,8 @@ C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\Servic
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ServicesCourse.AssemblyInfo.cs
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ServicesCourse.csproj.CoreCompileInputs.cache
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ServicesCourse.sourcelink.json
-C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ServicesCourse.csproj.CopyComplete
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ServicesCourse.dll
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\refint\ServicesCourse.dll
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ServicesCourse.pdb
 C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\ref\ServicesCourse.dll
+C:\Users\shahab-i317\RiderProjects\Course\ServicesCourse\obj\Debug\net7.0\Services.B30C7965.Up2Date

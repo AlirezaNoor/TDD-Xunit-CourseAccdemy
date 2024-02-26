@@ -44,4 +44,24 @@ public class DatabaseTest:IClassFixture<IDatabaseFixture>
 
 
     }
+
+    [Fact]
+    public void Check_Create_right()
+    {
+        var Name = "sdsdsd";
+        var course = new Domain.Course.Course(0,  Name, true, 900);
+        _couresRepository.Create(course);
+        var actual = _couresRepository.GetAll();
+
+        actual.Should().Contain(course);
+    }
+    [Fact]
+    public void Check_return_id()
+    {
+        var coures = new Domain.Course.Course(0, "alireza", true, 800);
+        var id=_couresRepository.Create(coures);
+
+        id.Should().BeGreaterThan(0);
+
+    }
 }

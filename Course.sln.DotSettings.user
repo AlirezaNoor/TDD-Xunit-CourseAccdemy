@@ -5,6 +5,8 @@
     &lt;TestId&gt;xUnit::21C7388F-E675-43A6-85CC-EED944429533::net7.0::SevicesTest.CousreServiceTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest.check_database_integration_in_data_base&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest.Check_Get_by_name&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest.Check_Create_right&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DD49D00D-5E92-4BF4-80E3-2B05233340C9::net7.0::InfraStructure.Course.IntegrationTest.DatabaseTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	

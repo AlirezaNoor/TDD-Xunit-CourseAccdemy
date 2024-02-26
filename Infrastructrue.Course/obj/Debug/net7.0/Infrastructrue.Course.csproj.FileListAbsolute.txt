@@ -9,8 +9,8 @@ C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.AssemblyInfo.cs
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.csproj.CoreCompileInputs.cache
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.sourcelink.json
-C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.csproj.CopyComplete
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.dll
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\refint\Infrastructrue.Course.dll
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastructrue.Course.pdb
 C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\ref\Infrastructrue.Course.dll
+C:\Users\shahab-i317\RiderProjects\Course\Infrastructrue.Course\obj\Debug\net7.0\Infrastr.255273F1.Up2Date
